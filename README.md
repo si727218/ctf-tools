@@ -18,7 +18,7 @@ Collection of tools for CTF
 -[fimap](https://github.com/kurobeats/fimap) - LFI automation
 
 ## Privilege Escalation
--[GTFOBins Online](https://gtfobins.github.io/) - List of exploitable binaries
+-[GTFOBins](https://gtfobins.github.io/) - Online list of exploitable binaries
 
 -[gtfo](https://github.com/mzfr/gtfo) - Terminal binary search
 
