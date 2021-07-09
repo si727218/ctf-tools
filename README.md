@@ -25,4 +25,4 @@ Collection of tools for CTF
 -[PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - Automated privilege escalation search
 
 ## Wordlists
--[SecLists](https://github.com/danielmiessler/SecLists)
+-[SecLists](https://github.com/danielmiessler/SecLists) - Web Directories
