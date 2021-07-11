@@ -30,15 +30,22 @@ Collection of tools for CTF
 ## Learning
 ### Top Recommendations
 -[TryHackMe](https://tryhackme.com/) - PAID (Student discount)
+
 -[HackTheBox](https://www.hackthebox.eu/) - PAID
+
 -[PortSwiggerAcademy](https://portswigger.net/web-security) - Web (FREE)
+
 -[Pico](https://play.picoctf.org/login?redirect=/practice) - FREE
+
 -[Vulnhub](https://www.vulnhub.com/) - Pwning (FREE)
+
 -[PWNFunction](https://xss.pwnfunction.com/) - Web (FREE)
 
 ### Web
 -[HackThisSite](https://www.hackthissite.org/) - FREE
+
 ### Pwning
 -[OverTheWire](https://overthewire.org/wargames/bandit/) - FREE
+
 ### Code Based Challenges
 -[CTFLearn](https://ctflearn.com/) - FREE
