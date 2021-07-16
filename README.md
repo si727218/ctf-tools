@@ -7,7 +7,12 @@ Collection of tools for CTF
 -[nikto](https://github.com/sullo/nikto) - Web server scanner
 
 ## Enummeration
+### Web
 -[gobuster](https://github.com/OJ/gobuster) - Directory enummeration
+
+### Windows
+-[enum4linux](https://github.com/cddmp/enum4linux-ng) - Windows enummeration
+-[SMBMap](https://github.com/ShawnDEvans/smbmap) - SAMBA enummeration
 
 ## Explotation
 -[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Curated exploit list
