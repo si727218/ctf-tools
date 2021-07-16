@@ -17,6 +17,9 @@ Collection of tools for CTF
 
 -[fimap](https://github.com/kurobeats/fimap) - LFI automation
 
+## Shells
+-[pwncat](https://github.com/cytopia/pwncat)
+
 ## Privilege Escalation
 -[GTFOBins](https://gtfobins.github.io/) - Online list of exploitable binaries
 
