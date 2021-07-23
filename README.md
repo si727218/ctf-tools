@@ -17,6 +17,7 @@ Collection of tools for CTF
 
 ## Explotation
 -[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - Curated exploit list
+-[PnetesMonkey](https://github.com/pentestmonkey?tab=repositories) - Curated exploit list
 
 ### Web
 -[tplmap](https://github.com/epinna/tplmap) - SSTI automation
