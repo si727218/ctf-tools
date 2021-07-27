@@ -28,7 +28,9 @@ Collection of tools for CTF
 -[CyberChef](https://gchq.github.io/CyberChef/) - Encryption, Decoding, Compression and Data Analysis
 
 ## Shells
--[pwncat](https://github.com/cytopia/pwncat)
+-[pwncat](https://github.com/cytopia/pwncat) -netcat but better
+
+-[reverse shell generator](https://www.revshells.com/)
 
 ## Privilege Escalation
 -[GTFOBins](https://gtfobins.github.io/) - Online list of exploitable binaries
