@@ -25,6 +25,8 @@ Collection of tools for CTF
 
 -[fimap](https://github.com/kurobeats/fimap) - LFI automation
 
+-[CyberChef](https://gchq.github.io/CyberChef/) - Encryption, Decoding, Compression and Data Analysis
+
 ## Shells
 -[pwncat](https://github.com/cytopia/pwncat)
 
@@ -34,6 +36,8 @@ Collection of tools for CTF
 -[gtfo](https://github.com/mzfr/gtfo) - Terminal binary search
 
 -[PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - Automated privilege escalation search
+
+-[pspy](https://github.com/DominicBreuker/pspy) - Process finder
 
 ## Wordlists
 -[SecLists](https://github.com/danielmiessler/SecLists) - Web Directories
