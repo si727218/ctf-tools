@@ -41,7 +41,9 @@ Collection of tools for CTF
 
 -[pspy](https://github.com/DominicBreuker/pspy) - Process finder
 
--[linux exploit suggester](https://github.com/mzet-/linux-exploit-suggester)
+-[linux exploit suggester](https://github.com/mzet-/linux-exploit-suggester) - Kernel exploits
+
+-[Exploit](https://github.com/xl7dev/Exploit) - Common web related software exploitation
 
 ## Wordlists
 -[SecLists](https://github.com/danielmiessler/SecLists) - Web Directories
