@@ -32,6 +32,9 @@ Collection of tools for CTF
 
 -[reverse shell generator](https://www.revshells.com/)
 
+## Pwn
+-[pwntools](https://github.com/Gallopsled/pwntools) - Python library for interacting with binaries
+
 ## Privilege Escalation
 -[GTFOBins](https://gtfobins.github.io/) - Online list of exploitable binaries
 
