@@ -27,10 +27,20 @@ Collection of tools for CTF
 
 -[CyberChef](https://gchq.github.io/CyberChef/) - Encryption, Decoding, Compression and Data Analysis
 
+-[aadecode (Japanese emoticons)](https://cat-in-136.github.io/2010/12/aadecode-decode-encoded-as-aaencode.html)
+
 ## Shells
--[pwncat](https://github.com/cytopia/pwncat) -netcat but better
+-[pwncat](https://github.com/cytopia/pwncat) - netcat but better
 
 -[reverse shell generator](https://www.revshells.com/)
+
+## Crypto
+-[Cipher Identifier](https://www.dcode.fr/cipher-identifier)
+
+## Reversing
+-[dnSpy](https://github.com/dnSpy/dnSpy) - debugger and .NET assembly editor
+
+-[jadx](https://github.com/skylot/jadx) - Java decompiler
 
 ## Pwn
 -[pwntools](https://github.com/Gallopsled/pwntools) - Python library for interacting with binaries
