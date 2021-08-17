@@ -61,6 +61,9 @@ Collection of tools for CTF
 ## Wordlists
 -[SecLists](https://github.com/danielmiessler/SecLists) - Web Directories
 
+## Misc
+-[pimp my kali](https://github.com/Dewalt-arch/pimpmykali) - Great troubleshooting script
+
 ## Learning
 ### Top Recommendations
 -[TryHackMe](https://tryhackme.com/) - PAID (Student discount)
