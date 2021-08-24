@@ -29,6 +29,9 @@ Collection of tools for CTF
 
 -[aadecode (Japanese emoticons)](https://cat-in-136.github.io/2010/12/aadecode-decode-encoded-as-aaencode.html)
 
+### NodeJS
+-[npm advisories](https://www.npmjs.com/advisories) - Identify Vulnerable Packages
+
 ## Shells
 -[pwncat](https://github.com/cytopia/pwncat) - netcat but better
 
