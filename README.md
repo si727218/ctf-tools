@@ -29,6 +29,8 @@ Collection of tools for CTF
 
 -[aadecode (Japanese emoticons)](https://cat-in-136.github.io/2010/12/aadecode-decode-encoded-as-aaencode.html)
 
+-[evilarc](https://github.com/ptoomey3/evilarc) - zip file directory traversal 
+
 ### NodeJS
 -[npm advisories](https://www.npmjs.com/advisories) - Identify Vulnerable Packages
 
@@ -44,6 +46,8 @@ Collection of tools for CTF
 -[dnSpy](https://github.com/dnSpy/dnSpy) - debugger and .NET assembly editor
 
 -[jadx](https://github.com/skylot/jadx) - Java decompiler
+
+-[ViperMonkey](https://github.com/decalage2/ViperMonkey) - Analyze and Deobfuscate malicious VBA
 
 ## Pwn
 -[pwntools](https://github.com/Gallopsled/pwntools) - Python library for interacting with binaries
